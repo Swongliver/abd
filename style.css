@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-image: url("background.jpg");
+    height: 100%;
+}
+#img{
+    margin-top: 50px;
+    size:40%;
+}
+#footer{
+    width: 100%; 
+    bottom: 0;
+    position: fixed;
+    background-color: grey;
+    opacity: 0.7;
+    color:white;
+    text-align: center;
+}
